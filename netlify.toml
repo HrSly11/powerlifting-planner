@@ -1,0 +1,7 @@
+[build]
+  # Carpeta donde está tu index.html
+  publish = "src"
+  
+  # Comando de compilación si es necesario, 
+  # de lo contrario, déjalo vacío ""
+  command = ""
